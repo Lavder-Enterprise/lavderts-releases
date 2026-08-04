@@ -1,0 +1,5 @@
+{
+  "version": "0.1.0",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.1.0/LavderTS-0.1.0-arm64.zip",
+  "notes": "First public build. Native arm64 TeamSpeak 3 client: full protocol, speexdsp capture chain, persistent chat history, soundboard and SinusBot plugins."
+}
