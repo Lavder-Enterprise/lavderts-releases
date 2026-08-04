@@ -8,7 +8,7 @@
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-1d1d1f)
 ![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-arm64-1d1d1f)
-![Signed](https://img.shields.io/badge/Developer%20ID-signed-1d1d1f)
+![Notarized](https://img.shields.io/badge/Apple-notarized-1d1d1f)
 ![Self updating](https://img.shields.io/badge/updates-in--app-1d1d1f)
 
 </div>
@@ -28,14 +28,13 @@ LavderTS speaks the same protocol to the same servers — the low-level handshak
 | **The retail capture chain** | Echo cancellation, noise suppression, automatic gain control and keyboard attenuation, run over speexdsp — the same library the official client uses — so they apply to whichever microphone and speakers you actually chose. |
 | **Chat that keeps up** | Per-server history on disk, tabs named after the server and the channel, and per-person notification rules keyed to TeamSpeak identity so they survive a nickname change. |
 | **Plugins** | A soundboard that streams clips into the channel through your own voice stream, with the Myinstants catalogue built in, and a remote control for a SinusBot instance. |
-| **Self-updating** | Signed builds. Installed copies check this repository's release feed at launch and every six hours, and tell you when there is something new. |
+| **Self-updating** | Signed and notarized builds. Installed copies check this repository's release feed at launch and every six hours, and tell you when there is something new. |
 
 ## Install
 
 1. Download the latest `LavderTS-x.y.z-arm64.zip` from [Releases](../../releases/latest).
-2. Unzip and drag **LavderTS.app** to Applications.
-3. First launch: right-click the app and choose **Open**, then confirm. macOS asks once because these builds are signed but not yet notarized; after that it opens normally.
-4. Grant the microphone when asked. Keyboard attenuation additionally needs Input Monitoring, in System Settings ▸ Privacy & Security.
+2. Unzip and drag **LavderTS.app** to Applications. No Gatekeeper warning: builds are signed and notarized by Apple.
+3. Grant the microphone when asked. Keyboard attenuation additionally needs Input Monitoring, in System Settings ▸ Privacy & Security.
 
 Requirements: macOS 14 or later on Apple Silicon.
 
