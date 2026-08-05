@@ -1,5 +1,5 @@
 {
-  "version": "0.2.2",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.2/LavderTS-0.2.2-arm64.zip",
-  "notes": "The audio release: echo cancellation no longer races itself, playback conceals packet loss instead of clicking, device switches rebuild once, and a deaf session self-repairs. Plus: crash fixes on connect and in Settings, the info column stays inside the window, locally muted users are marked, and the last server password is remembered in the keychain."
+  "version": "0.2.3",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.3/LavderTS-0.2.3-arm64.zip",
+  "notes": "First true release build (previous versions shipped as debug builds \u2014 this alone fixes most lag, crackle and CPU complaints). Echo cancellation stands down on in-ear outputs, the voice gate reads the post-AGC signal so your level holds while you talk, the soundboard monitor plays again, and channel joins/leaves have sounds."
 }
