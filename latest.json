@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.1.0/LavderTS-0.1.0-arm64.zip",
-  "notes": "First public build. Native arm64 TeamSpeak 3 client: full protocol, speexdsp capture chain, persistent chat history, soundboard and SinusBot plugins."
+  "version": "0.2.0",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.0/LavderTS-0.2.0-arm64.zip",
+  "notes": "Channel chat is now per-channel, and the stored history reads back \u2014 every line written before this was silently unreadable. Files can be sent and downloaded from the chat. Badges render at full resolution and appear in the profile alongside group memberships. Check for Updates\u2026 in the app menu. Fixes a crash any chat message could trigger, and a fragment-reassembly fault that lost channels on connect."
 }

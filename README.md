@@ -11,6 +11,16 @@
 ![Notarized](https://img.shields.io/badge/Apple-notarized-1d1d1f)
 ![Self updating](https://img.shields.io/badge/updates-in--app-1d1d1f)
 
+<br>
+
+<a href="https://github.com/Lavder-Enterprise/lavderts-releases/releases/latest/download/LavderTS-arm64.zip">
+<img src="https://img.shields.io/badge/Download%20for%20Mac-0A84FF?style=for-the-badge&logo=apple&logoColor=white&labelColor=0A84FF" alt="Download LavderTS for Mac" height="44">
+</a>
+
+<sub>**v0.2** · macOS 14+ · Apple Silicon · 5.6 MB · signed and notarized by Apple</sub>
+
+<sub><a href="../../releases">All releases</a> · <a href="../../releases/latest">Release notes</a></sub>
+
 </div>
 
 ---
@@ -32,7 +42,7 @@ LavderTS speaks the same protocol to the same servers — the low-level handshak
 
 ## Install
 
-1. Download the latest `LavderTS-x.y.z-arm64.zip` from [Releases](../../releases/latest).
+1. [**Download LavderTS**](https://github.com/Lavder-Enterprise/lavderts-releases/releases/latest/download/LavderTS-arm64.zip) — that link always points at the newest build.
 2. Unzip and drag **LavderTS.app** to Applications. No Gatekeeper warning: builds are signed and notarized by Apple.
 3. Grant the microphone when asked. Keyboard attenuation additionally needs Input Monitoring, in System Settings ▸ Privacy & Security.
 
@@ -40,7 +50,7 @@ Requirements: macOS 14 or later on Apple Silicon.
 
 ## Updates
 
-The app checks this repository's `latest.json` at launch and every six hours, and tells you when a newer version is published. Manual check and the feed URL: Settings ▸ Updates.
+The app checks this repository's `latest.json` at launch and every six hours, and tells you when a newer version is published. To ask at any other moment, **LavderTS ▸ Check for Updates…**. The feed URL is in Settings ▸ Updates for anyone running their own builds.
 
 ## Audio notes
 
