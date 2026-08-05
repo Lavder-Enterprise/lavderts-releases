@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Download%20for%20Mac-0A84FF?style=for-the-badge&logo=apple&logoColor=white&labelColor=0A84FF" alt="Download LavderTS for Mac" height="44">
 </a>
 
-<sub>**v0.2.1** · macOS 14+ · Apple Silicon · 5.6 MB · signed and notarized by Apple</sub>
+<sub>**v0.2.2** · macOS 14+ · Apple Silicon · 5.6 MB · signed and notarized by Apple</sub>
 
 <sub><a href="../../releases">All releases</a> · <a href="../../releases/latest">Release notes</a></sub>
 

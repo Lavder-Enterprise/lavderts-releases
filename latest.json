@@ -1,5 +1,5 @@
 {
-  "version": "0.2.1",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.1/LavderTS-0.2.1-arm64.zip",
-  "notes": "Avatars appear again: the hash was base64 where TeamSpeak writes hex, so every avatar the server sent was discarded as corrupt. Setting your own avatar works too \u2014 images are scaled before upload instead of being refused for size. Poke opens its sheet again."
+  "version": "0.2.2",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.2/LavderTS-0.2.2-arm64.zip",
+  "notes": "The audio release: echo cancellation no longer races itself, playback conceals packet loss instead of clicking, device switches rebuild once, and a deaf session self-repairs. Plus: crash fixes on connect and in Settings, the info column stays inside the window, locally muted users are marked, and the last server password is remembered in the keychain."
 }
