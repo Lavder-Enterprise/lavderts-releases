@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.0/LavderTS-0.2.0-arm64.zip",
-  "notes": "Channel chat is now per-channel, and the stored history reads back \u2014 every line written before this was silently unreadable. Files can be sent and downloaded from the chat. Badges render at full resolution and appear in the profile alongside group memberships. Check for Updates\u2026 in the app menu. Fixes a crash any chat message could trigger, and a fragment-reassembly fault that lost channels on connect."
+  "version": "0.2.1",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.1/LavderTS-0.2.1-arm64.zip",
+  "notes": "Avatars appear again: the hash was base64 where TeamSpeak writes hex, so every avatar the server sent was discarded as corrupt. Setting your own avatar works too \u2014 images are scaled before upload instead of being refused for size. Poke opens its sheet again."
 }
