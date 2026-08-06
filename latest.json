@@ -1,5 +1,5 @@
 {
-  "version": "0.2.3",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.3/LavderTS-0.2.3-arm64.zip",
-  "notes": "First true release build (previous versions shipped as debug builds \u2014 this alone fixes most lag, crackle and CPU complaints). Echo cancellation stands down on in-ear outputs, the voice gate reads the post-AGC signal so your level holds while you talk, the soundboard monitor plays again, and channel joins/leaves have sounds."
+  "version": "0.2.4",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.4/LavderTS-0.2.4-arm64.zip",
+  "notes": "The client no longer disconnects itself over a single unreadable packet \u2014 UDP delivers stale and corrupted datagrams routinely, and one of them was costing you the session. Up and down arrows now recall what you have sent, per conversation."
 }
