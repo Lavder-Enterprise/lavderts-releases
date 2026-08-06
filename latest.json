@@ -1,5 +1,5 @@
 {
-  "version": "0.2.4",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.4/LavderTS-0.2.4-arm64.zip",
-  "notes": "The client no longer disconnects itself over a single unreadable packet \u2014 UDP delivers stale and corrupted datagrams routinely, and one of them was costing you the session. Up and down arrows now recall what you have sent, per conversation."
+  "version": "0.2.5",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.5/LavderTS-0.2.5-arm64.zip",
+  "notes": "Reconnect no longer fights itself: every retry used to leave its UDP socket open, so the server kept seeing the old session and refused us with \"too many clones\". Bluetooth headsets connect and disconnect without restarting the app. Notifications have an inline Reply field, and tapping one opens the conversation it came from."
 }
