@@ -1,5 +1,5 @@
 {
-  "version": "0.2.5",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.5/LavderTS-0.2.5-arm64.zip",
-  "notes": "Reconnect no longer fights itself: every retry used to leave its UDP socket open, so the server kept seeing the old session and refused us with \"too many clones\". Bluetooth headsets connect and disconnect without restarting the app. Notifications have an inline Reply field, and tapping one opens the conversation it came from."
+  "version": "0.2.6",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.6/LavderTS-0.2.6-arm64.zip",
+  "notes": "The crackle is fixed, and it was never the codec: capture spliced 32 frames of already-sent audio onto the end of every microphone tap — a discontinuity every 21 ms, in everything you sent. Per-person volume is a dB curve now instead of raw amplitude, and muting the microphone or the speakers actually stops the audio instead of only telling the server."
 }
