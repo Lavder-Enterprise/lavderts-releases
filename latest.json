@@ -1,5 +1,5 @@
 {
-  "version": "0.2.6",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.6/LavderTS-0.2.6-arm64.zip",
-  "notes": "The crackle is fixed, and it was never the codec: capture spliced 32 frames of already-sent audio onto the end of every microphone tap — a discontinuity every 21 ms, in everything you sent. Per-person volume is a dB curve now instead of raw amplitude, and muting the microphone or the speakers actually stops the audio instead of only telling the server."
+  "version": "0.2.7",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.7/LavderTS-0.2.7-arm64.zip",
+  "notes": "Everything left over from the unwired-controls audit. Three query replies arrive with no command name on the wire, and each had a feature waiting on it: server administration, the permission finder's effective value, and a client's database detail. The server log read the wrong key, so it was always empty. Push-to-talk finally has a button on the Mac, applying an audio profile applies all of it, and the iPhone gains avatar upload, complaints, kick/ban, contacts, whisper lists and channel passwords."
 }
