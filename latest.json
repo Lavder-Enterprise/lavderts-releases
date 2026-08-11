@@ -1,5 +1,5 @@
 {
-  "version": "0.2.7",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.7/LavderTS-0.2.7-arm64.zip",
-  "notes": "Everything left over from the unwired-controls audit. Three query replies arrive with no command name on the wire, and each had a feature waiting on it: server administration, the permission finder's effective value, and a client's database detail. The server log read the wrong key, so it was always empty. Push-to-talk finally has a button on the Mac, applying an audio profile applies all of it, and the iPhone gains avatar upload, complaints, kick/ban, contacts, whisper lists and channel passwords."
+  "version": "0.2.8",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.8/LavderTS-0.2.8-arm64.zip",
+  "notes": "The 'microphone did not come back' error was the watchdog cancelling the very rebuild it was waiting for - a rebuild still in progress is now left to finish. The ping readout shows the median of the last five samples, matching TS3's smoothed figure: the raw spikes are the Wi-Fi radio scanning every 12.5 seconds, measured with the app not even running, and the sparkline still shows them."
 }
