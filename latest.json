@@ -1,5 +1,5 @@
 {
-  "version": "0.2.14",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.14/LavderTS-0.2.14-arm64.zip",
-  "notes": "Zero is not a measurement: between client reports the server answers with a ping of 0.0000, which was overwriting the real value and made the profile's ping blink. And your own 'Connected for' is computed locally now - the session knows when it connected, so it can never be missing."
+  "version": "0.2.15",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.15/LavderTS-0.2.15-arm64.zip",
+  "notes": "Moving people between channels works: the drop target was the channel's 18x20 pt icon and the drag handle was invisible until hover. The whole row takes the drop now, and there is a 'Move to channel' menu on both platforms. Redeeming a privilege key is also no longer hidden behind an admin permission - the one action that grants permissions was gated on already having them."
 }
