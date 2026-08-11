@@ -1,5 +1,5 @@
 {
-  "version": "0.3.7",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.3.7/LavderTS-0.3.7-arm64.zip",
-  "notes": "Group assignment works on every row including your own: the group menus show real membership with check states, a click adds or removes, and Permission overview is available on yourself. Duplicate 'Move to channel' entry removed."
+  "version": "0.3.8",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.3.8/LavderTS-0.3.8-arm64.zip",
+  "notes": "iPhone: session controls (mute, deafen, away) on the Dynamic Island and lock screen via Live Activity. macOS unchanged apart from the version."
 }
