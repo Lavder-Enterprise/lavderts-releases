@@ -1,5 +1,5 @@
 {
-  "version": "0.3.1",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.3.1/LavderTS-0.3.1-arm64.zip",
-  "notes": "Review pass over the screen share before anyone hit these live: three thread-assertion crashes on the frame path (first frame in either direction), an offer that could advertise port 0, NAT keepalives, and cleanup of departed viewers."
+  "version": "0.3.2",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.3.2/LavderTS-0.3.2-arm64.zip",
+  "notes": "Screen sharing you can actually drive: one button to create the permission group and add yourself, 'Allow screen sharing' in a person's context menu, a live preview of what you are sharing, a thumbnail grid instead of a list of window titles, and quality settings - frame rate, bitrate, audio, and a resolution cap applied at the capture."
 }
