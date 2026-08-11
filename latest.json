@@ -1,5 +1,5 @@
 {
-  "version": "0.2.11",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.11/LavderTS-0.2.11-arm64.zip",
-  "notes": "The connection panel tells one story: the sparkline carries the rolling-median series with the raw samples as a faint trace behind it, Best and Worst read the smoothed series, and a caption explains the periodic faint spikes - the Wi-Fi radio scanning, not the server. First release delivered through the in-app updater."
+  "version": "0.2.12",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.12/LavderTS-0.2.12-arm64.zip",
+  "notes": "Install and Relaunch no longer freezes on 'Relaunching...' while connected: the updater now disconnects from every server itself before asking to quit, and the relauncher waits for the old process to actually exit instead of hoping 0.7 seconds is enough."
 }
