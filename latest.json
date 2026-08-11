@@ -1,5 +1,5 @@
 {
-  "version": "0.2.8",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.8/LavderTS-0.2.8-arm64.zip",
-  "notes": "The 'microphone did not come back' error was the watchdog cancelling the very rebuild it was waiting for - a rebuild still in progress is now left to finish. The ping readout shows the median of the last five samples, matching TS3's smoothed figure: the raw spikes are the Wi-Fi radio scanning every 12.5 seconds, measured with the app not even running, and the sparkline still shows them."
+  "version": "0.2.9",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.9/LavderTS-0.2.9-arm64.zip",
+  "notes": "The ping other people see on your profile is computed the way your own readout is: median instead of mean, so the Wi-Fi radio's scan spikes no longer advertise a connection ~35% worse than the one you have."
 }
