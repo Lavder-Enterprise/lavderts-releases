@@ -1,5 +1,5 @@
 {
-  "version": "0.2.15",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.15/LavderTS-0.2.15-arm64.zip",
-  "notes": "Moving people between channels works: the drop target was the channel's 18x20 pt icon and the drag handle was invisible until hover. The whole row takes the drop now, and there is a 'Move to channel' menu on both platforms. Redeeming a privilege key is also no longer hidden behind an admin permission - the one action that grants permissions was gated on already having them."
+  "version": "0.3.0",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.3.0/LavderTS-0.3.0-arm64.zip",
+  "notes": "Screen sharing inside a channel. TS3 carries no video, so the picture goes peer to peer while the channel decides who is in the room and carries the key: being in the same channel is checked three times and enforced by the server, and permission is a server group you create. The video is encrypted with a per-broadcast key that only reaches clients that passed both tests. The shared machine's audio comes through the normal voice channel. iPhone can watch; the phone also gains the latency sparkline and the event-sound editor."
 }
