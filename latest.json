@@ -1,5 +1,5 @@
 {
-  "version": "0.2.9",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.9/LavderTS-0.2.9-arm64.zip",
-  "notes": "The ping other people see on your profile is computed the way your own readout is: median instead of mean, so the Wi-Fi radio's scan spikes no longer advertise a connection ~35% worse than the one you have."
+  "version": "0.2.10",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.10/LavderTS-0.2.10-arm64.zip",
+  "notes": "Updates install themselves now: download, signature check, swap, relaunch - no more zip in the Downloads folder. Profiles fill in: connection stats are polled while a profile is open, so 'Connected for', ping and the traffic counters appear for everyone instead of staying stuck on the first sparse reply."
 }
