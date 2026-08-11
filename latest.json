@@ -1,5 +1,5 @@
 {
-  "version": "0.2.13",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.13/LavderTS-0.2.13-arm64.zip",
-  "notes": "The route-change crash is fixed at its root: AVFAudio's Objective-C raises are caught and turned into retries instead of killing the app. And profiles finally fill in - our stats report carried a field the protocol does not declare, the server rejected the whole report, and that is why 'Connected for' and ping were missing on everyone."
+  "version": "0.2.14",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.2.14/LavderTS-0.2.14-arm64.zip",
+  "notes": "Zero is not a measurement: between client reports the server answers with a ping of 0.0000, which was overwriting the real value and made the profile's ping blink. And your own 'Connected for' is computed locally now - the session knows when it connected, so it can never be missing."
 }
