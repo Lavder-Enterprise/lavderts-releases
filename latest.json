@@ -1,5 +1,5 @@
 {
-  "version": "0.3.4",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.3.4/LavderTS-0.3.4-arm64.zip",
-  "notes": "Submenus no longer open and close on their own: the row underneath was being rebuilt at voice-packet rate, so macOS destroyed and recreated the menu under the pointer. Every channel row read the speaking state while building itself, re-rendering the whole tree whenever anyone talked; that read now lives in a leaf that draws one glyph."
+  "version": "0.3.5",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.3.5/LavderTS-0.3.5-arm64.zip",
+  "notes": "Permission management fixed: 'Server administration…' no longer eats clicks (the ping tick was rebuilding the open menu), the Permissions page no longer lists template twins of Server Admin/Guest undistinguished, and you can grant or revoke screen sharing on yourself — plus 'Remove me from the group' in the screen-share settings."
 }
