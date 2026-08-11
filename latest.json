@@ -1,5 +1,5 @@
 {
-  "version": "0.3.6",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.3.6/LavderTS-0.3.6-arm64.zip",
-  "notes": "Settings ▸ Plugins no longer breaks the Settings window: the split view's sidebar button was crowding the nine tabs into a dead \"»\" overflow and shrinking the window. All tabs stay visible now."
+  "version": "0.3.7",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.3.7/LavderTS-0.3.7-arm64.zip",
+  "notes": "Group assignment works on every row including your own: the group menus show real membership with check states, a click adds or removes, and Permission overview is available on yourself. Duplicate 'Move to channel' entry removed."
 }
