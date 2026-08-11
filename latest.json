@@ -1,5 +1,5 @@
 {
-  "version": "0.3.2",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.3.2/LavderTS-0.3.2-arm64.zip",
-  "notes": "Screen sharing you can actually drive: one button to create the permission group and add yourself, 'Allow screen sharing' in a person's context menu, a live preview of what you are sharing, a thumbnail grid instead of a list of window titles, and quality settings - frame rate, bitrate, audio, and a resolution cap applied at the capture."
+  "version": "0.3.3",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.3.3/LavderTS-0.3.3-arm64.zip",
+  "notes": "Plugin commands use their own target-mode numbering, which I had read off the text-message table: that was the error on every screen share, and the reason sharing never reached anyone. Server groups created from the app were templates, which no client can be added to - that is why sshare and swatch were not assignable. The panel column now widens past 460 pt, and the viewer opens in its own window."
 }
