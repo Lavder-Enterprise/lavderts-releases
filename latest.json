@@ -1,5 +1,5 @@
 {
-  "version": "0.3.8",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.3.8/LavderTS-0.3.8-arm64.zip",
-  "notes": "iPhone: session controls (mute, deafen, away) on the Dynamic Island and lock screen via Live Activity. macOS unchanged apart from the version."
+  "version": "0.3.9",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.3.9/LavderTS-0.3.9-arm64.zip",
+  "notes": "macOS: fixes a session that could go deaf — connected, receiving voice, playing none of it — after the playback engine failed to start at connect time. The audio watchdog now covers that path, backs off between retries, recovers when the route changes, and falls back to the system default output."
 }
