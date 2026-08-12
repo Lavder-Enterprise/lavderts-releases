@@ -1,5 +1,5 @@
 {
-  "version": "0.3.9",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.3.9/LavderTS-0.3.9-arm64.zip",
-  "notes": "macOS: fixes a session that could go deaf — connected, receiving voice, playing none of it — after the playback engine failed to start at connect time. The audio watchdog now covers that path, backs off between retries, recovers when the route changes, and falls back to the system default output."
+  "version": "0.4.0",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.0/LavderTS-0.4.0-arm64.zip",
+  "notes": "iPhone: the Dynamic Island controls are round, so the island's mask no longer cuts their corners. Also: a failed audio setup at connect no longer leaves the session silently deaf."
 }
