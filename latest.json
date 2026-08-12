@@ -1,5 +1,5 @@
 {
-  "version": "0.4.2",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.2/LavderTS-0.4.2-arm64.zip",
-  "notes": "Fixes the ~22-minute deafness: inbound packets were decrypted with a hardcoded generation 0, so when the voice counter wrapped at 65,536 packets every later voice frame failed authentication and was silently dropped. Inbound generations are now tracked per packet type, like the outgoing side always did."
+  "version": "0.4.3",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.3/LavderTS-0.4.3-arm64.zip",
+  "notes": "Fixes the 0.4.2 crash on the audio playback queue: the health report trapped on counters that legitimately reset when a talker's channel is rebuilt after a device change. Includes the 0.4.2 fix for the ~22-minute deafness."
 }
