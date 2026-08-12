@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.0/LavderTS-0.4.0-arm64.zip",
-  "notes": "iPhone: the Dynamic Island controls are round, so the island's mask no longer cuts their corners. Also: a failed audio setup at connect no longer leaves the session silently deaf."
+  "version": "0.4.1",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.1/LavderTS-0.4.1-arm64.zip",
+  "notes": "Going deaf mid-session: the playback engine is now watched (nothing above it ever asked whether it was running), a failed restart falls back to the system default output, the watchdog re-arms every 15s instead of only on device changes, and giving up is no longer permanent. Audio health is logged even in release builds, so the next occurrence leaves evidence."
 }
