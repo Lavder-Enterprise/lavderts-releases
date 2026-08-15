@@ -1,5 +1,5 @@
 {
-  "version": "0.4.3",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.3/LavderTS-0.4.3-arm64.zip",
-  "notes": "Fixes the 0.4.2 crash on the audio playback queue: the health report trapped on counters that legitimately reset when a talker's channel is rebuilt after a device change. Includes the 0.4.2 fix for the ~22-minute deafness."
+  "version": "0.4.4",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.4/LavderTS-0.4.4-arm64.zip",
+  "notes": "Fixes the regression behind \"the bot is transmitting and I hear nothing\": since 0.4.1 a microphone another app owns made the liveness watchdog rebuild the entire audio graph every 15 seconds, tearing down the playback engine each time. A microphone fault now rebuilds only the microphone, retries escalate, and the decision is a tested policy."
 }
