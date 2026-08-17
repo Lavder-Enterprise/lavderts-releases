@@ -1,5 +1,5 @@
 {
-  "version": "0.4.5",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.5/LavderTS-0.4.5-arm64.zip",
-  "notes": "Fixes ghost clients left in the channel tree when several clients left the server at once (e.g. bots timing out together after a restart) — every client named in a batched leave is now removed, along with its playback state."
+  "version": "0.4.6",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.6/LavderTS-0.4.6-arm64.zip",
+  "notes": "Update check: an honest error message when GitHub's CDN rate-limits the manifest, and a fallback to the GitHub Releases API so the check still completes. Also includes 0.4.5's ghost-client fix."
 }
