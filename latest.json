@@ -1,5 +1,5 @@
 {
-  "version": "0.4.4",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.4/LavderTS-0.4.4-arm64.zip",
-  "notes": "Fixes the regression behind \"the bot is transmitting and I hear nothing\": since 0.4.1 a microphone another app owns made the liveness watchdog rebuild the entire audio graph every 15 seconds, tearing down the playback engine each time. A microphone fault now rebuilds only the microphone, retries escalate, and the decision is a tested policy."
+  "version": "0.4.5",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.5/LavderTS-0.4.5-arm64.zip",
+  "notes": "Fixes ghost clients left in the channel tree when several clients left the server at once (e.g. bots timing out together after a restart) — every client named in a batched leave is now removed, along with its playback state."
 }
