@@ -1,5 +1,5 @@
 {
-  "version": "0.4.9",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.9/LavderTS-0.4.9-arm64.zip",
-  "notes": "Chat auto-scroll is reliable, a jump-to-latest button with an unread count appears when you scroll up, the info/chat column resize is smooth (no lag, no dead band, no cursor flicker), and the channel pane no longer clips at its narrowest width."
+  "version": "0.4.10",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.10/LavderTS-0.4.10-arm64.zip",
+  "notes": "Adaptive jitter buffer per talker (fixes crackle/lag between people while the bot sounds fine), voice packets no longer wait for the network stack's receipt, context submenus stay open while the bot updates its description, and the send/attach buttons match the app's style."
 }
