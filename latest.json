@@ -1,5 +1,5 @@
 {
-  "version": "0.4.10",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.10/LavderTS-0.4.10-arm64.zip",
-  "notes": "Adaptive jitter buffer per talker (fixes crackle/lag between people while the bot sounds fine), voice packets no longer wait for the network stack's receipt, context submenus stay open while the bot updates its description, and the send/attach buttons match the app's style."
+  "version": "0.4.11",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.11/LavderTS-0.4.11-arm64.zip",
+  "notes": "Connection drops: acks and pings no longer wait on the network stack (a stalled receipt blocked all inbound processing until the server gave up), App Nap is disabled while connected, and a dead link is detected in ~8 s with the reason shown. Chat messages the server never confirmed come back to the composer instead of vanishing."
 }
