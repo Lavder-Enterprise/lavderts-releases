@@ -1,5 +1,5 @@
 {
-  "version": "0.4.11",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.11/LavderTS-0.4.11-arm64.zip",
-  "notes": "Connection drops: acks and pings no longer wait on the network stack (a stalled receipt blocked all inbound processing until the server gave up), App Nap is disabled while connected, and a dead link is detected in ~8 s with the reason shown. Chat messages the server never confirmed come back to the composer instead of vanishing."
+  "version": "0.4.12",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.12/LavderTS-0.4.12-arm64.zip",
+  "notes": "Connecting AirPods no longer trips 'Microphone unavailable': capture setup retries through the device handover, capture errors are readable, and the banner clears once the microphone is back."
 }
