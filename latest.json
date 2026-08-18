@@ -1,5 +1,5 @@
 {
-  "version": "0.4.8",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.8/LavderTS-0.4.8-arm64.zip",
-  "notes": "SinusBot plugin: upload the YouTube cookie jar straight from Settings → Plugins → SinusBot (token kept in your keychain; the server validates and test-downloads before swapping it in)."
+  "version": "0.4.9",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.9/LavderTS-0.4.9-arm64.zip",
+  "notes": "Chat auto-scroll is reliable, a jump-to-latest button with an unread count appears when you scroll up, the info/chat column resize is smooth (no lag, no dead band, no cursor flicker), and the channel pane no longer clips at its narrowest width."
 }
