@@ -1,5 +1,5 @@
 {
-  "version": "0.4.7",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.7/LavderTS-0.4.7-arm64.zip",
-  "notes": "Drag-to-move made easy: the whole channel block (header + the people in it) accepts a dropped user, and users can be grabbed by their name instead of only the small handle."
+  "version": "0.4.8",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.8/LavderTS-0.4.8-arm64.zip",
+  "notes": "SinusBot plugin: upload the YouTube cookie jar straight from Settings → Plugins → SinusBot (token kept in your keychain; the server validates and test-downloads before swapping it in)."
 }
