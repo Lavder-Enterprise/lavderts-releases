@@ -1,5 +1,5 @@
 {
-  "version": "0.4.13",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.13/LavderTS-0.4.13-arm64.zip",
-  "notes": "CPU while connected drops sharply: the receive path created 100+ tasks per second of scheduler overhead at voice rate (task group + sleep per datagram for timeouts, a task per datagram for the actor hop). Datagrams now flow through one stream with a synchronous yield and a single reusable timeout timer."
+  "version": "0.4.14",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.14/LavderTS-0.4.14-arm64.zip",
+  "notes": "CPU: the remaining ~30% was AVAudioEngine's per-node sample-rate conversion (48 kHz nodes into a 44.1/24 kHz output). Audio is now resampled in the producer off the render thread; a per-channel fallback restores the old path automatically if the resampler ever misbehaves."
 }
