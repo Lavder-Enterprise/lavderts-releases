@@ -1,5 +1,5 @@
 {
-  "version": "0.4.12",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.12/LavderTS-0.4.12-arm64.zip",
-  "notes": "Connecting AirPods no longer trips 'Microphone unavailable': capture setup retries through the device handover, capture errors are readable, and the banner clears once the microphone is back."
+  "version": "0.4.13",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.13/LavderTS-0.4.13-arm64.zip",
+  "notes": "CPU while connected drops sharply: the receive path created 100+ tasks per second of scheduler overhead at voice rate (task group + sleep per datagram for timeouts, a task per datagram for the actor hop). Datagrams now flow through one stream with a synchronous yield and a single reusable timeout timer."
 }
