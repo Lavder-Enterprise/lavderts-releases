@@ -1,5 +1,5 @@
 {
-  "version": "0.4.15",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.15/LavderTS-0.4.15-arm64.zip",
-  "notes": "No more 'reopen windows?' dialog after in-app updates: the updater clears the stale window-restoration state before relaunching. Window positions are unaffected."
+  "version": "0.4.16",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.16/LavderTS-0.4.16-arm64.zip",
+  "notes": "CPU while anyone is audible drops from ~50% to ~5%: the speaking indicator's pulsing halo re-rendered the window at display refresh for as long as anyone spoke. The halo is now static."
 }
