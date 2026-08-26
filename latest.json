@@ -1,5 +1,5 @@
 {
-  "version": "0.4.17",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.17/LavderTS-0.4.17-arm64.zip",
-  "notes": "Your nickname comes back on its own after a reconnect: when the server's ghost of your previous session let the name go, the client reclaims it automatically."
+  "version": "0.4.18",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.18/LavderTS-0.4.18-arm64.zip",
+  "notes": "Crackle on voices: the jitter buffer learns the network once for everyone, so fresh spurts start with the right cushion. Submenus no longer close on their own every few seconds."
 }
