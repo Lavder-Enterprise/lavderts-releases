@@ -1,5 +1,5 @@
 {
-  "version": "0.4.21",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.21/LavderTS-0.4.21-arm64.zip",
-  "notes": "Screen share now works across the internet via an end-to-end-encrypted relay (both sides must update). Also: channel tree survives reconnects (0.4.20) and steady 20 ms voice pacing (0.4.19)."
+  "version": "0.4.22",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.22/LavderTS-0.4.22-arm64.zip",
+  "notes": "Screen share now works across the internet via an end-to-end-encrypted relay. Both the sharer and the viewers must be on 0.4.22."
 }
