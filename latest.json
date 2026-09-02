@@ -1,5 +1,5 @@
 {
-  "version": "0.4.25",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.25/LavderTS-0.4.25-arm64.zip",
-  "notes": "Fixes the mic meter and sending indicator of 0.4.24, plus a first round of app-wide bug fixes and idle-CPU cleanups."
+  "version": "0.4.26",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.26/LavderTS-0.4.26-arm64.zip",
+  "notes": "Bug-fix and optimisation pass: cleaner disconnects and reconnects, whispers no longer mute channel voice, no concealment buzz, faster packet crypto, less main-thread IO."
 }
