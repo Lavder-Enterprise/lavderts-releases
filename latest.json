@@ -1,5 +1,5 @@
 {
-  "version": "0.4.18",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.18/LavderTS-0.4.18-arm64.zip",
-  "notes": "Crackle on voices: the jitter buffer learns the network once for everyone, so fresh spurts start with the right cushion. Submenus no longer close on their own every few seconds."
+  "version": "0.4.19",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.19/LavderTS-0.4.19-arm64.zip",
+  "notes": "Voice you send now leaves at a steady 20 ms cadence instead of 100 ms bursts — fixes choppy audio for everyone listening to a LavderTS talker."
 }
