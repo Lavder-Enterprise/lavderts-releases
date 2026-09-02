@@ -1,5 +1,5 @@
 {
-  "version": "0.4.19",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.19/LavderTS-0.4.19-arm64.zip",
-  "notes": "Voice you send now leaves at a steady 20 ms cadence instead of 100 ms bursts — fixes choppy audio for everyone listening to a LavderTS talker."
+  "version": "0.4.20",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.20/LavderTS-0.4.20-arm64.zip",
+  "notes": "Channel tree no longer loses channels or people after an automatic reconnect. Also includes 0.4.19: steady 20 ms voice pacing so LavderTS talkers sound clean to everyone."
 }
