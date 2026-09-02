@@ -1,5 +1,5 @@
 {
-  "version": "0.4.20",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.20/LavderTS-0.4.20-arm64.zip",
-  "notes": "Channel tree no longer loses channels or people after an automatic reconnect. Also includes 0.4.19: steady 20 ms voice pacing so LavderTS talkers sound clean to everyone."
+  "version": "0.4.21",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.21/LavderTS-0.4.21-arm64.zip",
+  "notes": "Screen share now works across the internet via an end-to-end-encrypted relay (both sides must update). Also: channel tree survives reconnects (0.4.20) and steady 20 ms voice pacing (0.4.19)."
 }
