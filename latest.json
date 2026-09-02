@@ -1,5 +1,5 @@
 {
-  "version": "0.4.22",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.22/LavderTS-0.4.22-arm64.zip",
-  "notes": "Screen share now works across the internet via an end-to-end-encrypted relay. Both the sharer and the viewers must be on 0.4.22."
+  "version": "0.4.23",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.23/LavderTS-0.4.23-arm64.zip",
+  "notes": "Watch several shared screens at once in a split screen, keep watching while you share, and pinch to zoom into a share."
 }
