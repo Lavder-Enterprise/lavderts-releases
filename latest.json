@@ -1,5 +1,5 @@
 {
-  "version": "0.4.24",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.24/LavderTS-0.4.24-arm64.zip",
-  "notes": "Voice gate reads your voice before the gain control (no more sinking under the threshold), release-delay setting, normal transmit level, stable Bluetooth device switching."
+  "version": "0.4.25",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.25/LavderTS-0.4.25-arm64.zip",
+  "notes": "Fixes the mic meter and sending indicator of 0.4.24, plus a first round of app-wide bug fixes and idle-CPU cleanups."
 }
