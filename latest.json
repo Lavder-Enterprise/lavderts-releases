@@ -1,5 +1,5 @@
 {
-  "version": "0.4.27",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.27/LavderTS-0.4.27-arm64.zip",
-  "notes": "Pictures and videos show inline in the chat with a viewer and download. Your own messages appear the moment you send them. Muting the speakers also mutes the microphone (optional)."
+  "version": "0.4.28",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.28/LavderTS-0.4.28-arm64.zip",
+  "notes": "Games in the chat: /dice, /wheel and /scratch open a configurator and post an animated bubble everyone in the channel sees."
 }
