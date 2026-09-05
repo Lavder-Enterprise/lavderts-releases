@@ -1,5 +1,5 @@
 {
-  "version": "0.4.29",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.29/LavderTS-0.4.29-arm64.zip",
-  "notes": "Games, second pass: the scratch card shows its foil to everyone and scratching is reliable; the dice are thrown in 3D and land with a bounce."
+  "version": "0.4.30",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.30/LavderTS-0.4.30-arm64.zip",
+  "notes": "Lavder Cash (500 L to start, +100 L a day, +10 L an hour) and a live European roulette table in the chat (/roulette). Dice are real 3D solids per side count; the wheel's odds are exactly its shares."
 }
