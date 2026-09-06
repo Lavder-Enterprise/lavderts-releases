@@ -1,5 +1,5 @@
 {
-  "version": "0.4.34",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.34/LavderTS-0.4.34-arm64.zip",
-  "notes": "A roulette table that cannot open now says why in the chat; older and newer clients no longer lock each other out of the bank."
+  "version": "0.4.35",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.35/LavderTS-0.4.35-arm64.zip",
+  "notes": "Lavder Cash second pass: balance and wallet agree, priority speaker granted properly, command and nickname suggestions, /pay and /bet pickers, duel bubbles with buttons."
 }
