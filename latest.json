@@ -1,5 +1,5 @@
 {
-  "version": "0.4.35",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.35/LavderTS-0.4.35-arm64.zip",
-  "notes": "Lavder Cash second pass: balance and wallet agree, priority speaker granted properly, command and nickname suggestions, /pay and /bet pickers, duel bubbles with buttons."
+  "version": "0.4.36",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.36/LavderTS-0.4.36-arm64.zip",
+  "notes": "Roulette: the balance moves when the ball lands, not before."
 }
