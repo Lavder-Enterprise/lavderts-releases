@@ -1,5 +1,5 @@
 {
-  "version": "0.4.39",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.39/LavderTS-0.4.39-arm64.zip",
-  "notes": "Scratch ticket fixed: readable in dark mode, aligned games, balance moves when the foil comes off."
+  "version": "0.4.40",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.40/LavderTS-0.4.40-arm64.zip",
+  "notes": "Scratch & win: four distinct tickets, three distinct games, sweep scratching, done only when every box is scratched; fits the screen. House funds in the wallet."
 }
