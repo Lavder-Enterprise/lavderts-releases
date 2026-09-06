@@ -1,5 +1,5 @@
 {
-  "version": "0.4.40",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.40/LavderTS-0.4.40-arm64.zip",
-  "notes": "Scratch & win: four distinct tickets, three distinct games, sweep scratching, done only when every box is scratched; fits the screen. House funds in the wallet."
+  "version": "0.4.41",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.41/LavderTS-0.4.41-arm64.zip",
+  "notes": "Scratch prizes can land anywhere on the card (same odds). Two new statuses: out for a moment and at lunch, visible to everyone, muting on the way out."
 }
