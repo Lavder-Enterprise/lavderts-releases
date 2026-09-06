@@ -1,5 +1,5 @@
 {
-  "version": "0.4.32",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.32/LavderTS-0.4.32-arm64.zip",
-  "notes": "Lavder Cash grows up: transfers (/pay), balances in profiles, a wallet panel with leaderboards, shop, lottery and duels (/bank), ten-hour-day and streak bonuses, achievements, and a presence check every three silent hours."
+  "version": "0.4.33",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.33/LavderTS-0.4.33-arm64.zip",
+  "notes": "Shop: VIP badge, priority speaker for a day and a room of your own for 24 hours are on sale — applied on the server by the Lavder bank and reverted when they expire."
 }
