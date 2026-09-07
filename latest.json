@@ -1,5 +1,5 @@
 {
-  "version": "0.4.44",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.44/LavderTS-0.4.44-arm64.zip",
-  "notes": "Notes mode: take a note from the chat composer, saved as Markdown with date, client and title. Coffee-break status."
+  "version": "0.4.45",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.45/LavderTS-0.4.45-arm64.zip",
+  "notes": "Notes browser (Window ▸ Notes); composer grows and scrolls; bot volume and mute survive a relaunch."
 }
