@@ -1,5 +1,5 @@
 {
-  "version": "0.4.43",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.43/LavderTS-0.4.43-arm64.zip",
-  "notes": "A quiet banner when a presence check is waiting for you; the loud prompt still comes when you are back."
+  "version": "0.4.44",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.44/LavderTS-0.4.44-arm64.zip",
+  "notes": "Notes mode: take a note from the chat composer, saved as Markdown with date, client and title. Coffee-break status."
 }
