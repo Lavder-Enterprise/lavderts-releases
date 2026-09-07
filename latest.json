@@ -1,5 +1,5 @@
 {
-  "version": "0.4.42",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.42/LavderTS-0.4.42-arm64.zip",
-  "notes": "Presence check waits until you are back at the keyboard and is loud when it comes. Wider jitter cushion against crackle. Submenu, bot volume and notification preview fixes."
+  "version": "0.4.43",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.43/LavderTS-0.4.43-arm64.zip",
+  "notes": "A quiet banner when a presence check is waiting for you; the loud prompt still comes when you are back."
 }
