@@ -1,5 +1,5 @@
 {
-  "version": "0.4.45",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.45/LavderTS-0.4.45-arm64.zip",
-  "notes": "Notes browser (Window ▸ Notes); composer grows and scrolls; bot volume and mute survive a relaunch."
+  "version": "0.4.46",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.46/LavderTS-0.4.46-arm64.zip",
+  "notes": "Video preview no longer crashes on macOS 27. Chess on Lichess for a stake: /chess @nick 25 5+3."
 }
