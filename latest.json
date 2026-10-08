@@ -1,5 +1,5 @@
 {
-  "version": "0.4.48",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.48/LavderTS-0.4.48-arm64.zip",
-  "notes": "Hide someone's chat (no messages, no sound) without muting their voice."
+  "version": "0.4.49",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.49/LavderTS-0.4.49-arm64.zip",
+  "notes": "Audio rebuilt: no lag or crackle, AirPods keep high quality, devices and calls recovered automatically, new audio settings."
 }
