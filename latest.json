@@ -1,5 +1,5 @@
 {
-  "version": "0.4.47",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.47/LavderTS-0.4.47-arm64.zip",
-  "notes": "Chess against the Lichess AI: levels 1 to 8, on the board inside LavderTS."
+  "version": "0.4.48",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.48/LavderTS-0.4.48-arm64.zip",
+  "notes": "Hide someone's chat (no messages, no sound) without muting their voice."
 }
