@@ -1,5 +1,5 @@
 {
-  "version": "0.4.50",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.50/LavderTS-0.4.50-arm64.zip",
-  "notes": "Soundboard deck: 4 favourite pads with shortcuts, drag to reorder, rename. Myinstants works again inside its tab."
+  "version": "0.4.51",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.51/LavderTS-0.4.51-arm64.zip",
+  "notes": "Myinstants: Keep and Channel take the sound you just pressed."
 }
