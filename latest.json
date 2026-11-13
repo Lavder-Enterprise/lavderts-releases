@@ -1,5 +1,5 @@
 {
-  "version": "0.4.59",
-  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.59/LavderTS-0.4.59-arm64.zip",
-  "notes": "Likes no longer arrive as empty messages."
+  "version": "0.4.60",
+  "url": "https://github.com/Lavder-Enterprise/lavderts-releases/releases/download/v0.4.60/LavderTS-0.4.60-arm64.zip",
+  "notes": "Soundboard clips up to 60 seconds."
 }
